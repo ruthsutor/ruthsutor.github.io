@@ -1,0 +1,23 @@
+html{
+	background-color: #99ccff;
+	color:#FFFFFF;
+	font-size: 14pt;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Pacifico', cursive;
+	font-size: 36pt;
+}
+a{
+	text-decoration: none;
+	color:#000000;
+	font-family: 'Roboto', sans-serif;
+}
+div{
+	width:20%;
+	margin-left: 40%;
+	background-color:#FFFFFF;
+	min-height: 400px;
+	padding-top: 20px;
+}
